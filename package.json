@@ -1,0 +1,25 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "liri.js",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.83.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies":{},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jliscar6591/liri-node-app.git"
+  },
+  "author": "John Liscar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jliscar6591/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/jliscar6591/liri-node-app#readme",
+}
