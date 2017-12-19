@@ -76,7 +76,7 @@ function getTweets() {
 					data[i].text + "\r\n" +
 					data[i].created_at + "\r\n" +
 					"------------------------------ " + i + " ------------------------------" + "\r\n";
-					console.log(JSON.stringify(twitterResults));
+					console.log(twitterResults);
 					writeToLog(twitterResults); // calling log function
 				}
 			}  else {
